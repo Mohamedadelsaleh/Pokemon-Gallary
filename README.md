@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-[Pokemon Gallery]([https://lyriks-musical-app.netlify.app/](https://mohamedadelsaleh.github.io/Pokemon-Gallary/))
+[Pokemon Gallery](https://mohamedadelsaleh.github.io/Pokemon-Gallary/)
 
 
 ## Setup
