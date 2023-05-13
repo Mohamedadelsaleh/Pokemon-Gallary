@@ -41,8 +41,15 @@ npm start
 
 
 ## Pictures
+ Home page :
 ![screencapture-localhost-5173-2023-05-13-19_41_12](https://github.com/Mohamedadelsaleh/ILLA-task/assets/26310663/c9bd7fca-2318-49fa-af5d-ec826edd0f7d)
+ 
+ Pokemon Details Page:
+ 
 ![screencapture-localhost-5173-pokemon-1-2023-05-13-19_42_18](https://github.com/Mohamedadelsaleh/ILLA-task/assets/26310663/6e37dae0-4f2a-4bf2-b0d3-ac89015f6e73)
+
+Handle search view:
+
 ![screencapture-localhost-5173-2023-05-13-19_41_34](https://github.com/Mohamedadelsaleh/ILLA-task/assets/26310663/f45167d1-8ccb-4a62-89f7-da9650a7f53c)
 
 ## Authors
