@@ -50,7 +50,7 @@ const PokemonDetails = () => {
                     flexDirection:'column',
                     justifyContent: 'center',
                     minWidth: '50%',}}>
-                        <Link to={`/`}>
+                        <Link to={`/Pokemon-Gallary/`}>
                             <Box sx={{ 
                                 display:'flex',
                                 justifyContent:"center",

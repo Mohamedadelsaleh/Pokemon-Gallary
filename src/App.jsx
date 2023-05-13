@@ -10,8 +10,8 @@ function App() {
   return (
       <BrowserRouter>
         <Routes>
-          <Route exact path="https://mohamedadelsaleh.github.io/Pokemon-Gallary/" element={<Home />} />
-          <Route exact path="https://mohamedadelsaleh.github.io/Pokemon-Gallary/pokemon/:pokemonId" element={<PokemonDetails />} />
+          <Route exact path="/Pokemon-Gallary/" element={<Home />} />
+          <Route exact path="/pokemon/:pokemonId" element={<PokemonDetails />} />
           <Route path="*"  element={<Typography variant="h3" sx={{alignContent:'center',display:'flex', justifyContent:"center", alignItems:"center" , textAlign: 'center', minHeight:"100vh", color: 'black'}}>404 Not Found</Typography>} />
         </Routes>
       </BrowserRouter>
