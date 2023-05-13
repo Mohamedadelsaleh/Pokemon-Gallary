@@ -7,7 +7,7 @@ const Header = (props) => {
   return (
     <div className="container">
         <div className="containerLogo">
-          <Link to={`/`}>
+          <Link to={`/Pokemon-Gallary/`}>
             <img className="pokemonImage" src={pokemonIcon} alt='pokemonstore' />
           </Link>
             <h3>Pokemon Gallery</h3>
