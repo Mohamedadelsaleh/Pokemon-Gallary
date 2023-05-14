@@ -31,6 +31,12 @@ Install main source of project :
 After downloading project files open it in your IDE then in open Termianl:
 
 ```bash
+npm install 
+```
+
+Then
+
+```bash
 npm start 
 ```
 
